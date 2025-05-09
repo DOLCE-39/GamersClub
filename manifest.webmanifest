@@ -1,14 +1,14 @@
 {
     "background_color": "rgb(36,40,47)",
-    "description": "My Game Collection From Playnite",
+    "description": "CATALOGO GAMERS CLUB",
     "display": "fullscreen",
     "icons": [{
-            "src": "web-icon.png",
+            "src": "splash.png",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
-    "name": "My Game Collection From Playnite",
-    "short_name": "My Game Collection",
+    "name": "CATALOGO GAMERS CLUB",",
+    "short_name": "GAMERS CLUB",
     "start_url": "index.html"
 }
